@@ -1,6 +1,6 @@
 ## About Me
 
-I’m currently working on [MicroStrategy](https://github.com/microstrategy).
+I’m currently working in [MicroStrategy](https://github.com/microstrategy).
 
 A dream builder, appreciate what I have, confident in things I know & I'm capable of doing.
 
