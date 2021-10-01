@@ -2,7 +2,7 @@
 
 I’m currently working at [MicroStrategy](https://github.com/microstrategy).
 
-A dream builder, appreciate what I have, confident in things I know & I'm capable of doing.
+A dream builder, appreciate what I have, confident in things I know & excel at.
 
 ## Reach Me
 
